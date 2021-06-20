@@ -1,3 +1,7 @@
+# Anthonys' blog
+
+This is a draft of a draft of a draft blog site. Here I am using this to comment on the information and repositories found on my github account and other projects related to my research and academic life. The base code is structured as below:
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
