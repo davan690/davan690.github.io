@@ -5,7 +5,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My personal blog
+title: Github blog
 
 # Your name to show in the footer
 author: Anthony Davidson
@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: davan690
+  github: davan690
+  twitter: ANTSstats
+#  patreon: yourname
+#  youtube: c/yourname
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -65,15 +65,15 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I do write some things
+rss-description: This is a personal collection of ideas
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -235,4 +235,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
