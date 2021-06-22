@@ -15,7 +15,7 @@ author: Anthony Davidson
 navbar-links:
   About Me: "https://davan690.github.io/cv-2021/"
   Resources:
-  	- R: "https://www.r-project.org/"
+    - R: "https://www.r-project.org/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://davan690.github.io"
