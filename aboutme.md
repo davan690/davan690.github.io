@@ -9,4 +9,4 @@ published: true
 
 anthony.davidson@canberra.edu.au
 
-[CV here]("https://davan690.github.io/cv2021/")
+[CV here](https://davan690.github.io/cv2021/)
