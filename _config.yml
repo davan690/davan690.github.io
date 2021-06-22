@@ -13,7 +13,7 @@ author: Anthony Davidson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://davan690.github.io/cv-2021/"
+  About Me: "https://davan690.github.io/cv2021/"
   Resources:
     - R: "https://www.r-project.org/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
