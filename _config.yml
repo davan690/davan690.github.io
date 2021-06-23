@@ -16,9 +16,9 @@ navbar-links:
   About Me: "https://davan690.github.io/cv2021/"
   Resources:
     - R: "https://www.r-project.org/"
+    - RStudio: "https://www.rstudio.com/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://davan690.github.io"
 
 # --- Logo --- #
 
