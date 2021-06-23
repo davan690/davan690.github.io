@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "anthony.davidson@canberra.edu.au"
   facebook: davan690
   github: davan690
   twitter: ANTSstats
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This is a personal collection of ideas
+rss-description: This is a personal collection of research notes
 
 # --- General options --- #
 
