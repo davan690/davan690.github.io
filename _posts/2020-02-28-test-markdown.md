@@ -81,3 +81,11 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+### Sorting images
+
+Images live in the folder `./assets/img/` folder and can be linked in posts as:
+
+`![]()`
+
+![TEST image](assets/img/vectorizationINr.png)
