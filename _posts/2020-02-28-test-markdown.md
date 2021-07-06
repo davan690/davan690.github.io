@@ -89,3 +89,15 @@ Images live in the folder `./assets/img/` folder and can be linked in posts as:
 `![]()`
 
 ![TEST image](assets/img/vectorizationINr.png)
+
+eg: location: https://github.com/davan690/images/blob/master/vectorizationINr.png
+
+Browser link: https://raw.githubusercontent.com/davan690/images/master/vectorizationINr.png
+
+Embedded in website: 
+
+Must be a jpg
+![Weblink](https://github.com/davan690/images/blob/master/vectorizationINr.png)
+
+Must be a jpg
+![Weblink](https://github.com/davan690/images/blob/master/vectorizationINr.jpg)
