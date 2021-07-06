@@ -94,5 +94,10 @@ eg: location: https://github.com/davan690/images/blob/master/vectorizationINr.pn
 
 Browser link: https://raw.githubusercontent.com/davan690/images/master/vectorizationINr.png
 
-Embedded in website: ![](https://github.com/davan690/images/blob/master/vectorizationINr.png)
+Embedded in website: 
 
+Must be a jpg
+![Weblink](https://github.com/davan690/images/blob/master/vectorizationINr.png)
+
+Must be a jpg
+![Weblink](https://github.com/davan690/images/blob/master/vectorizationINr.jpg)
