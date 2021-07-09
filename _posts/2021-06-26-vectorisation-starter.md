@@ -14,3 +14,11 @@ In a perfect world I could be able to write all my code as vectorised functions.
 Overall its just a better way to write loops in R...
 
 ![test image](/_posts/vectorizationINr.jpg){:class="img-responsive"}
+
+
+## More tests
+
+- ![Logo Jekyll]({{site.url}}/assets/images/avatar-icon.png )
+- ![Logo Jekyll](http://memofil.github.io//assets/images/avatar-icon.png )
+- ![Logo Jekyll]({{"/assets/images/avatar-icon.png "| absolute_url}})
+- ![Logo Jekyll](avatar-icon.png )
