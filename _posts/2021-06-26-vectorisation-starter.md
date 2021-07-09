@@ -12,3 +12,5 @@ In a perfect world I could be able to write all my code as vectorised functions.
 ![https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/09-vectorization/index.html](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/09-vectorization/index.html)
 
 Overall its just a better way to write loops in R...
+
+![test image](/_posts/vectorizationINr.jpg){:class="img-responsive"}
