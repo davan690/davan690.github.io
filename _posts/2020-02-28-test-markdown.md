@@ -100,4 +100,6 @@ Must be a jpg
 ![Weblink](https://github.com/davan690/images/blob/master/vectorizationINr.png)
 
 Must be a jpg
-![Weblink](https://github.com/davan690/images/blob/master/vectorizationINr.jpg)
+and have brackets too...
+
+![Weblink]("https://github.com/davan690/images/blob/master/vectorizationINr.jpg")
