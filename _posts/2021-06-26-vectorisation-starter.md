@@ -7,6 +7,8 @@ In a perfect world I could be able to write all my code as vectorised functions.
 
 ![Data capentary tutorial]({{site.baseurl}}/_posts/vectorizationINr.png)
 
-[https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/09-vectorization/index.html](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/09-vectorization/index.html)
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+![https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/09-vectorization/index.html](https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/09-vectorization/index.html)
 
 Overall its just a better way to write loops in R...
