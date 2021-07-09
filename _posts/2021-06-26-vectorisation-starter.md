@@ -18,7 +18,7 @@ Overall its just a better way to write loops in R...
 
 ## More tests
 
-- ![Logo Jekyll]({{site.url}}/assets/images/avatar-icon.png )
+- ![Logo Jekyll]({{site.url}}/assets/images/vectorizationINr.png)
 - ![Logo Jekyll](http://memofil.github.io//assets/images/avatar-icon.png )
 - ![Logo Jekyll]({{"/assets/images/avatar-icon.png "| absolute_url}})
 - ![Logo Jekyll](avatar-icon.png )
