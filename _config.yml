@@ -84,7 +84,7 @@ share-links-active:
 url-pretty: "davan690.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 150
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -117,7 +117,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
