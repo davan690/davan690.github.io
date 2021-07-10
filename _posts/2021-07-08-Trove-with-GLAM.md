@@ -2,9 +2,8 @@
 layout: post
 title: Working with TROVE notes
 subtitle: Using R
-cover-img: assets/img/TRovelandingpage.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: assets/img/
+thumbnail-img: /assets/img/TRovelandingpage.PNG
 tags:
   - RStudio
   - Trove
