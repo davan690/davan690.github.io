@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Embedding a google location
 
