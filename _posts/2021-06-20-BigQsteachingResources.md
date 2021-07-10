@@ -2,12 +2,12 @@
 layout: post
 title: Big Questions Resources
 subtitle: Teaching reproducibility
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: "/assets/img/method-graf.jpg"
+thumbnail-img: "/assets/img/method-graf.jpg"
+share-img: "/assets/img/method-graf.jpg"
 tags:
-  - books
-  - test
+  - Reproducibility
+  - Website
 published: true
 ---
 
