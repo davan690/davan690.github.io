@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Big Questions Resources
-subtitle: Teaching reproducibility
-cover-img: assets/images/TRovelandingpage.png
+title: Working with TROVE notes
+subtitle: Using R
+cover-img: assets/img/TRovelandingpage.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags:
-  - books
-  - test
+  - RStudio
+  - Trove
+  - GLAM
 published: true
 ---
 
