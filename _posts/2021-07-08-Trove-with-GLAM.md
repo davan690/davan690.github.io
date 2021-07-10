@@ -1,5 +1,6 @@
 ---
 published: true
+bigimg: assets/images/TRovelandingpage.png
 ---
 ## Trove using GLAM tools
 
