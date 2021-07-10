@@ -18,7 +18,7 @@ Google has a huge wealth of location data it uses for good or bad. It is possibl
 
 ### Shiny app uses `iframe` too
 
-The same `iframe` code can be used for a shiny app hosted on the rstudio shiny server (5 free apps as of June 2021). This is a great resource for accessing and communicating RShiny apps over the web.
+The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny server](https://cjbattey.shinyapps.io/) (5 free apps as of June 2021). This is a great resource for accessing and communicating RShiny apps over the web.
 
 ```
 <iframe 
@@ -33,5 +33,5 @@ The same `iframe` code can be used for a shiny app hosted on the rstudio shiny s
 
 And then it can look something like this:
 
-<iframe src="https://cjbattey.shinyapps.io/driftR/" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://ssnhub.shinyapps.io/predator_prey_simulation1/" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
