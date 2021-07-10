@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "`jekyll` metadata resources"
-subtitle: Teaching reproducibility
-cover-img: "/assets/img/background-image.jpg"
+cover-img: "/assets/img/method-graf.jpg"
 thumbnail-img: "/assets/img/method-graf.jpg"
-share-img: "/assets/img/background-image.jpg"
+share-img: "/assets/img/method-graf.jpg"
 tags:
   - Jekyll
   - Website
