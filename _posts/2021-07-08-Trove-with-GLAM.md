@@ -1,6 +1,14 @@
 ---
+layout: post
+title: Big Questions Resources
+subtitle: Teaching reproducibility
+cover-img: assets/images/TRovelandingpage.png
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags:
+  - books
+  - test
 published: true
-bigimg: assets/images/TRovelandingpage.png
 ---
 
 # Trove using GLAM tools
