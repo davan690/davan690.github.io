@@ -2,7 +2,8 @@
 published: true
 bigimg: assets/images/TRovelandingpage.png
 ---
-## Trove using GLAM tools
+
+# Trove using GLAM tools
 
 The trove database is a amazing resource that is configured using a simple API. There is a tool called QueryPic that can be used from within an online jupyter notebook that makes working with the overall data from TROVE much easier.
 
