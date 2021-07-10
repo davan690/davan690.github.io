@@ -1,5 +1,14 @@
 ---
-published: false
+layout: post
+title: "`jekyll` metadata resources"
+subtitle: Teaching reproducibility
+cover-img: "/assets/images/background-image.jpg"
+thumbnail-img: "/assets/images/method-graf.jpg"
+share-img: "/assets/images/background-image.jpg"
+tags:
+  - books
+  - test
+published: true
 ---
 
 These are the main parameters you can place inside a page's YAML front matter that Beautiful Jekyll supports.
