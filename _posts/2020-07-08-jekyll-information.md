@@ -2,12 +2,12 @@
 layout: post
 title: "`jekyll` metadata resources"
 subtitle: Teaching reproducibility
-cover-img: "/assets/images/background-image.jpg"
-thumbnail-img: "/assets/images/method-graf.jpg"
-share-img: "/assets/images/background-image.jpg"
+cover-img: "/assets/img/background-image.jpg"
+thumbnail-img: "/assets/img/method-graf.jpg"
+share-img: "/assets/img/background-image.jpg"
 tags:
-  - books
-  - test
+  - Jekyll
+  - Website
 published: true
 ---
 

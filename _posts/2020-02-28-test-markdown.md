@@ -84,4 +84,6 @@ You can add notification, warning and error boxes like this:
 
 ### Sorting images
 
-Images live in the folder `./assets/images/` folder
+Images live in the 
+
+- folder `./assets/img/`
