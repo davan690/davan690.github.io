@@ -1,24 +1,26 @@
-# Welcome to Beautiful Jekyll!
-# This file is configured for davan690.github.io
-#june2021
+# Welcome to Anthonys modification to the Beautiful Jekyll template.
+# This file is configured for davan690.github.io/
+#raw code can be found at site above. If you want to do it yourself please fork the Beautiful Jekyll template and not this site.
+#june2021 Anthony Davidson
 
 # --- Required options --- #
 
 # Name of website
-title: Research notes
+title: Personal research notes
 
 # Your name to show in the footer
-author: Anthony Davidson
+author: Anthony R Davidson
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://davan690.github.io/cv2021/"
   Resources:
     - R: "https://www.r-project.org/"
     - RStudio: "https://www.rstudio.com/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Markdown: "https://www.markdowntutorial.com/"
+    - Tidyverse: "https://r4ds.had.co.nz/"
+  About Me: "https://davan690.github.io/cv2021/"
 
 # --- Logo --- #
 
