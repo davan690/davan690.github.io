@@ -8,7 +8,20 @@ tags:
   - Website
 published: true
 ---
-Google has a huge wealth of location data it uses for good or bad. It is possible to access and use this data for both personal interest and for the better side of the equation. Here is the beginning of what I hope will be a collection of information on how to deal with google location data in R. Mostly because I have found this hard and I hope by writing a bunch of blog posts about it I will become more accustom to working with this sort of data.
+Google has a huge wealth of location data it uses for good or bad. It is possible to access and use this data for both personal interest and for the better side of the equation. 
+
+## Quick links
+
+- RShiny tutorial from [RStudio here](https://shiny.rstudio.com/tutorial/)
+
+- RStudio shiny server [information here
+(https://www.rstudio.com/products/shiny/)
+
+- My [predator prey simulation]("https://ssnhub.shinyapps.io/predator_prey_simulation1/") here [https://ssnhub.shinyapps.io/predator_prey_simulation1/]["https://ssnhub.shinyapps.io/predator_prey_simulation1/"]
+
+# Background
+
+Here is the beginning of what I hope will be a collection of R scripts and notes on how to deal with google location data in R. Mostly because I have found this hard and I hope by writing a bunch of blog posts about it I will become more accustom to working with this sort of data.
 
 ## `iframe`
 
@@ -18,7 +31,7 @@ Google has a huge wealth of location data it uses for good or bad. It is possibl
 
 ### Shiny app uses `iframe` too
 
-The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny server](https://cjbattey.shinyapps.io/) (5 free apps as of June 2021). This is a great resource for accessing and communicating RShiny apps over the web.
+The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny server](https://shinyapps.io/) (5 free apps as of June 2021). This is a great resource for accessing and communicating RShiny apps over the web.
 
 ```
 <iframe 
