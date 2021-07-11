@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "`jekyll` metadata resources"
-cover-img: "/assets/img/method-graf.jpg"
+title: "Jekyll metadata"
+subtitle: "Quick tips"
 thumbnail-img: "/assets/img/method-graf.jpg"
-share-img: "/assets/img/method-graf.jpg"
+gh-repo: daattali/beautiful-jekyll
+gh-badge:
+  - star
+  - fork
+  - follow
 tags:
   - Jekyll
   - Website
