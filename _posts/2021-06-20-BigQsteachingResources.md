@@ -1,12 +1,13 @@
 ---
-layout: post
-title: Big Questions Resources
+title: Resources to understand reproducibility
 subtitle: Teaching reproducibility
-cover-img: "/assets/img/method-graf.jpg"
+cover-img: "/assets/img/ecologicalstatistics3_1_original.jpg"
 thumbnail-img: "/assets/img/ecologicalstatistics3_1_original.jpg"
 tags:
   - Reproducibility
   - Website
+  - Teaching
+layout: post
 published: true
 ---
 
