@@ -158,8 +158,36 @@ google_analytics: "UA-103591108-3"
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 #disqus: ""
 
+#<!-- Messenger Chat plugin Code -->
+#    <div id="fb-root"></div>
+
+#    <!-- Your Chat plugin code -->
+#    <div id="fb-customer-chat" class="fb-customerchat">
+#    </div>
+
+#    <script>
+#      var chatbox = document.getElementById('fb-customer-chat');
+#      chatbox.setAttribute("page_id", "359831624564663");
+#      chatbox.setAttribute("attribution", "biz_inbox");
+
+ #     window.fbAsyncInit = function() {
+ #       FB.init({
+ #         xfbml            : true,
+ #         version          : 'v11.0'
+ #       });
+ #     };
+
+ #     (function(d, s, id) {
+ #       var js, fjs = d.getElementsByTagName(s)[0];
+ #       if (d.getElementById(id)) return;
+ #       js = d.createElement(s); js.id = id;
+ #       js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+ #       fjs.parentNode.insertBefore(js, fjs);
+ #     }(document, 'script', 'facebook-jssdk'));
+ #   </script>
+    
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "359831624564663"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
