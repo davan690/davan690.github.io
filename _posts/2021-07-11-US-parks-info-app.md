@@ -27,9 +27,12 @@ I found this great shiny app that I have managed to reproduce on my shiny server
         <img src="https://img.shields.io/github/stars/{{- gh-user -}}/{{- gh-project -}}.svg?style=social&label=Stars" alt="Github" title="Github Stars">
       </a>
     </div>
-  </div>
-
+</div>
+</div>
+  
 ## News
+
+Here are some other posts associated with this work. 
 
 <div class="post"><ul>
 {% for post in site.tags["beech"] %}
