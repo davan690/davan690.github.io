@@ -31,7 +31,7 @@ Here is the beginning of what I hope will be a collection of R scripts and notes
 
 ### Shiny app uses `iframe` too
 
-The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny server](https://shinyapps.io/) (5 free apps as of June 2021). This is a great resource for accessing and communicating RShiny apps over the web.
+The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny server](https://shinyapps.io/) (5 free apps as of June 2021). There is also a package to make uploading and publishing your shiny app much easier [here]("https://rstudio.github.io/rsconnect/") These resources are a great tool for accessing and communicating early development of `RShiny` apps over the web. 
 
 ```
 <iframe 
@@ -47,4 +47,3 @@ The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny 
 And then it can look something like this:
 
 <iframe src="https://ssnhub.shinyapps.io/predator_prey_simulation1/" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
