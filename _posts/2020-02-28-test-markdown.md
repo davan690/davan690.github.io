@@ -84,6 +84,4 @@ You can add notification, warning and error boxes like this:
 
 ### Sorting images
 
-Images live in the 
-
-- folder `./assets/img/`
+Images live in the `./assets/img/` folder following the same rules as the beautiful jekyll template. 

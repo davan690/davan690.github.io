@@ -1,6 +1,16 @@
 ---
 published: true
+title: "github content editor: `Prose.io`"
+layout: post
+tags: ["website", "overview", "general"]
+use-site-title: true
 ---
+
+Prose.io is called "a content editor for GitHub". `Prose` is very similar to the visual editor included in older versions of `WordPress` that many people use for writing blog posts.
+
+Information [here](https://www.websbytodd.com/documentation/using-prose/)
+
+One thing is does really well is it gives people the ability to update their own websites, especially those who don't have the time and energy to learn how to write code. While there is plenty of great technical documentation for Prose on GitHub, there is very little documentation for people who don't code. 
 ## Prose.io
 
 Prose is a content editor that allows simple draft post creation for `github` (and `jekyll`) through a web interface for simple markdown. Markdown is very easy to learn as it is ment to be able to be read as plain text as well as rendered as a document like word or html.
