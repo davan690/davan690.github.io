@@ -1,7 +1,7 @@
 ---
 title: Embedding a google location
 cover-img: /assets/img/method-graf.jpg
-thumbnail-img: /assets/img/method-graf.jpg
+thumbnail-img: https://github.com/davan690/davan690.github.io/blob/1fb6c67142d60d993d123fd818d73bc4dde07465/assets/img/home_image1.jpg
 tags:
   - Google
   - Website

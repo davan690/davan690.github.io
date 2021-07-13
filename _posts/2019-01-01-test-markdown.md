@@ -9,24 +9,15 @@ tags:
   - tips
 ---
 
-This is a demo post from Dean's website to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into `bold/italics/headings/tables/etc`.
+This is a demo post from Dean's website to show you how to write blog posts with markdown.  
 
 ## Simple syntax
 
-**Here is some bold text**
+I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into `bold/italics/headings/tables/etc`.
 
+**Here is some bold text**
 ## Here is a secondary heading
 ### Here is a third heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
 
 Here's a code chunk:
 
@@ -88,3 +79,14 @@ How about a yummy crepe? Here are two sections of code for working with markdown
 It can also be centered!
 
 ![Crepe: It can also be centered!](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+### Working with tables
+
+Here's a useless table:
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
