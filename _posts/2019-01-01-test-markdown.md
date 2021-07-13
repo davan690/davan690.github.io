@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Markdown syntax
 subtitle: Quick tips
+layout: post
+comments: true
+published: true
 tags:
   - markdown
   - tips
-comments: true
-published: true
 ---
 
 This is a demo post from Dean's website to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into `bold/italics/headings/tables/etc`.
