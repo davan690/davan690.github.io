@@ -2,7 +2,6 @@
 layout: post
 title: Working with TROVE notes
 subtitle: Using R
-cover-img: assets/img/
 thumbnail-img: /assets/img/TRovelandingpage.PNG
 tags:
   - RStudio
