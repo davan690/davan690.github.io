@@ -2,7 +2,6 @@
 title: Embedding a google location
 cover-img: /assets/img/method-graf.jpg
 thumbnail-img: /assets/img/method-graf.jpg
-share-img: /assets/img/method-graf.jpg
 tags:
   - Google
   - Website
