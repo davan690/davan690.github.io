@@ -16,7 +16,9 @@ published: true
 
 These are the main parameters you can place inside a page's YAML front matter that Beautiful Jekyll supports.
 
-## Parameter	Descriptions
+## Beautiful jekyll Parameter	Descriptions
+
+Insert info here...
 
 `title`	Page or blog post title
 
