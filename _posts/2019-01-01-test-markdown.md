@@ -28,14 +28,6 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
 Here's a code chunk:
 
 ~~~
@@ -81,8 +73,18 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
-### WOrking with images
+### Working with images
 
-Images live in the `./assets/img/` folder following the same rules as the beautiful jekyll template. 
+> set following yaml variables: `layout: post`; `tags: <tagg_label>`
 
-Overall jekyll uses liquid tags to and these usually found in the `assets` folder.
+Images live in the `./assets/img/` folder following the same rules as the beautiful jekyll template. Overall jekyll uses liquid tags to and these usually found in the `assets` folder.
+
+#### Classic markdown image syntax
+
+How about a yummy crepe? Here are two sections of code for working with markdown syntax (code).
+
+![Crepe: How about a yummy crepe?](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+It can also be centered!
+
+![Crepe: It can also be centered!](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
