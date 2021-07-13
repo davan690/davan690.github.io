@@ -13,16 +13,13 @@ Google has a huge wealth of location data it uses for good or bad. It is possibl
 
 - RShiny tutorial from [RStudio here](https://shiny.rstudio.com/tutorial/)
 
-- RStudio shiny server [information here
-(https://www.rstudio.com/products/shiny/)
+- RStudio shiny server [information here](https://www.rstudio.com/products/shiny/)
 
 - My [predator prey simulation]("https://ssnhub.shinyapps.io/predator_prey_simulation1/") here [https://ssnhub.shinyapps.io/predator_prey_simulation1/]["https://ssnhub.shinyapps.io/predator_prey_simulation1/"]
 
-# Background
+# Background `iframe`
 
 Here is the beginning of what I hope will be a collection of R scripts and notes on how to deal with google location data in R. Mostly because I have found this hard and I hope by writing a bunch of blog posts about it I will become more accustom to working with this sort of data.
-
-## `iframe`
 
 `iframe` is one of the easiest way to embed an interactive web application inside a html webpage. In short, put maps in your documents from other applications online such as the my-maps map I have created below:
 
@@ -34,9 +31,9 @@ The same `iframe` code can be used for a shiny app hosted on the [rstudio shiny 
 
 ```
 <iframe 
-	src="<YOUR SHINY APP>" 
-	width="600" 
-    height="450" 
+	src=<"YOUR-SHINY-APP">
+	width=<"MEASUREMENT"> 
+    height=<"MEASUREMENT"> 
     style="border:0;" 
     allowfullscreen="" 
     loading="lazy">
