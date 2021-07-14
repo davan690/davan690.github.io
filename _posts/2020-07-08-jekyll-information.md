@@ -14,13 +14,14 @@ tags:
 published: true
 ---
 
-These are the main parameters you can place inside a page's YAML front matter that Beautiful Jekyll supports.
+These are the main parameters you can place inside a page's `YAML` front matter that Beautiful Jekyll supports.
 
 ## Beautiful jekyll Parameter	Descriptions
 
 Insert info here...
 
-`title`	Page or blog post title
+{: .box-note}
+**title** Page or blog post title
 
 `subtitle`	Short description of page or blog post that goes under the title
 
