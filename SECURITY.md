@@ -2,20 +2,29 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This repository is a static Jekyll site, and the current branch is expected to be the supported version for production content.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version/Branch | Supported | Notes |
+| --- | --- | --- |
+| main | :white_check_mark: | Active site source |
+| other feature branches | :x: | Security fixes should be merged back to main |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please report security issues privately and responsibly.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+- Preferred contact: open a private security advisory through GitHub, or contact the repository maintainer through the public project contact channel listed in the site metadata.
+- Please do not open a public GitHub issue for a vulnerability before a fix is ready to be discussed.
+- Include a clear description, reproduction steps, affected files or pages, and any potential impact.
+- We will acknowledge receipt within 5 business days when possible and provide a remediation timeline once the issue is triaged.
+
+## Security Expectations
+
+- Do not commit secrets, credentials, private keys, or tokens to the repository.
+- Prefer HTTPS for all externally loaded content and resources.
+- Keep GitHub Actions and dependency versions current.
+- Review any embedded scripts, analytics, or third-party widgets before publishing.
+
+## Disclosure Policy
+
+We appreciate responsible disclosure. Security fixes will be prioritized based on severity and risk, and we will coordinate a public disclosure once a fix is available and validated.

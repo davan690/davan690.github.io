@@ -13,3 +13,5 @@ cover-img:
   - assets/img/ecologicalstatistics2_1_original.jpg: "New Zealand (Mike Jones)"
 published: true
 ---
+
+- [Security Audit Summary](/docs/security-audit-summary/)

@@ -7,8 +7,8 @@ subtitle: Try it
 
 <head>
   <title>A Leaflet map!</title>
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
   <style>
     #map{ width: 900px; height: 500px; }
   </style>
@@ -23,9 +23,9 @@ subtitle: Try it
   var map = L.map('map').setView([42.35, -71.08], 13);
 
   // load a tile layer
-  L.tileLayer('http://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
+  L.tileLayer('https://tiles.mapc.org/basemap/{z}/{x}/{y}.png',
     {
-      attribution: 'Tiles by <a href="http://mapc.org">MAPC</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',
+      attribution: 'Tiles by <a href="https://mapc.org">MAPC</a>, Data by <a href="https://mass.gov/mgis">MassGIS</a>',
       maxZoom: 17,
       minZoom: 9
     }).addTo(map);
