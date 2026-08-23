@@ -275,6 +275,8 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
+  - .bundle/
+  - vendor/
 
 plugins:
   - jekyll-paginate
